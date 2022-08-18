@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <link rel="icon" type="image/png" href="" />; About Me!
+    </title>
+</head>
+
+<body>
+    <style>
+
+        body {
+            background-image: url(https://stringfixer.com/files/27541933.jpg);
+            margin: 70px;
+            font-family: IMPact;
+            position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        p {
+            background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/06/04/Dark-Purple-Gradient-Background-Graphics-4278236-1-1-580x387.jpg);
+            font-size: 20px;
+            border: 5px ridge purple;
+            padding: 15px;
+            text-align: center;
+            margin: 90PX;
+            font-family: comic sans ms;
+            position: relative;
+            bottom: 70;
+
+        }
+
+        .p1 {
+            color: white;
+            font-size: 40px;
+            padding: 20px;
+            border: 5px ridge purple;
+            background-image: url(https://static.vecteezy.com/ti/vecteur-libre/t2/1840806-modele-flou-vecteur-rose-fonce-vectoriel.jpg);
+            text-align: center;
+            position: relative;
+            bottom: 20;
+        }
+
+        button {
+            background-color: pink;
+            font-family: lucida console;
+            padding: 15;
+            border: 5px ridge purple;
+            font-size: 15px;
+        }
+
+        .num1 {
+            color: pink;
+            padding: 10;
+            text-align: left;
+            position: fixed;
+            bottom: 2;
+        }
+
+        .num2 {
+            color: pink;
+            padding: 10;
+            text-align: right;
+            position: FIXED;
+            left: 200;
+            bottom: 2;
+        }
+
+        .num3 {
+            color: pink;
+            position: fixed;
+            left: 50;
+            padding: 2;
+            text-align: right;
+            top: 533;
+        }
+
+        .num4 {
+            color: pink;
+            position: fixed;
+            right: 210;
+            padding: 10;
+            text-align: right;
+            top: 526;
+
+        }
+    </style>
+    <p class="p1">Hello World!</p>
+    <p>Hi im ryan 16years old from morroco. I love playing minecraft i main hypixel bedwars for now, but i used to main tnt tag. My discord is cifer#9006 and have a great day
+        <3 </p>
+            <dir>
+                <a href="https://www.instagram.com/69_dh/?hl=fr">
+                    <li class="num2">
+                        Instagram
+                    </li>
+                </a>
+                <a href="https://www.youtube.com/channel/UCOeqfRNos68yacUrsKwY1Hw/videos">
+                    <li class="num1">
+                        Youtube
+                    </li>
+                </a>
+                <a href="https://discord.gg/VSBHshHM">
+                    <li class="num3">
+                        Legit
+                    </li>
+                </a>
+                <a href="https://discord.gg/29pNtP3Z">
+                    <li class="num4">
+                        premium
+                    </li>
+                </a>
+            </dir>
+</body>
